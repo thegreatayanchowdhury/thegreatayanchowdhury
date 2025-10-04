@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=AA00FF&center=true&vCenter=true&width=800&lines=AYAN+CHOWDHURY;CSE+(AI+%26+ML)+Undergrad+%7C+GDG+AIML+Lead;Tech-Enthusiast+%7C+AI%2FML+Developer;Python+Wizard"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=AA00FF&center=true&vCenter=true&width=800&lines=AYAN+CHOWDHURY;CSE+(AI+%26+ML)+Undergrad+%7C+GDG+AI+&+ML+Lead;Tech-Enthusiast+%7C+AI%2FML+Developer;Python+Wizard"/>
 </h1>
 
 ---
@@ -7,7 +7,7 @@
 ### 🧠 About Me
 
 - 🎓 B.Tech in CSE (AI & ML) @ AEC
-- AIML Core Member @ **GDG on Campus AEC**
+- AI & ML Lead @ **GDG on Campus AEC**
 <img src="https://komarev.com/ghpvc/?username=thegreatayanchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 ---
